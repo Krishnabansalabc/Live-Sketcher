@@ -10,4 +10,4 @@ Created a Live Sketching app using webcam.
 
     cv2
     numpy
-<h2>It terminates on <enter> key</h2>
+<h2>It terminates on <b>enter</b> key</h2>
